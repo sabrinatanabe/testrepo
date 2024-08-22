@@ -1,2 +1,2 @@
 # testrepo
-used in sepetember of 1968 fall semester.
+used in August of 2024 fall semester.
